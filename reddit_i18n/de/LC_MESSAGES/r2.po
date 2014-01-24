@@ -5010,7 +5010,7 @@ msgstr ""
 #: r2/templates/commentvisitsbox.html:32 r2/templates/useriphistory.html:52
 #: r2/templates/utils.html:586
 msgid "ago"
-msgstr "zuvor"
+msgstr "her"
 
 #: r2/templates/comment.html:141
 msgid "child"
@@ -5020,7 +5020,7 @@ msgstr[1] "Kinder"
 
 #: r2/templates/comment.html:151
 msgid "show replies"
-msgstr ""
+msgstr "Antworten anzeigen"
 
 #: r2/templates/commentspanel.html:38
 msgid "This sidebar will automatically appear when there are comments."
@@ -5032,7 +5032,7 @@ msgstr "Diese Seitenleiste wird nicht automatisch angezeigt."
 
 #: r2/templates/commentvisitsbox.html:25
 msgid "Highlight comments posted since previous visit:"
-msgstr ""
+msgstr "Kommentare seit dem letzten Besuch hervorheben:"
 
 #: r2/templates/commentvisitsbox.html:34
 msgid "no highlighting"
@@ -5045,7 +5045,7 @@ msgstr ""
 
 #: r2/templates/confirmawardclaim.html:35
 msgid "Yes, please!"
-msgstr ""
+msgstr "Ja, bitte!"
 
 #: r2/templates/contactus.html:75
 msgid ""
@@ -5081,7 +5081,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:96
 msgid "submission text"
-msgstr ""
+msgstr "eingereicher Text"
 
 #: r2/templates/createsubreddit.html:136 r2/templates/multiinfobar.html:40
 msgid "public"
@@ -5118,7 +5118,7 @@ msgstr "Jeder kann lesen, aber Einreichungen werden nicht mehr akzeptiert"
 
 #: r2/templates/createsubreddit.html:155
 msgid "gold restricted"
-msgstr ""
+msgstr "nur für Gold"
 
 #: r2/templates/createsubreddit.html:156
 msgid "anyone can view, but only reddit gold members can submit or comment"
@@ -5162,7 +5162,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:201
 msgid "disabled"
-msgstr ""
+msgstr "deaktiviert"
 
 #: r2/templates/createsubreddit.html:202
 msgid "Wiki is disabled for all users except mods"
@@ -5180,7 +5180,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:207
 msgid "anyone"
-msgstr ""
+msgstr "jeder"
 
 #: r2/templates/createsubreddit.html:208
 msgid "Anyone who can submit to the subreddit may edit"
@@ -5295,11 +5295,11 @@ msgstr ""
 
 #: r2/templates/exploreitem.html:42
 msgid "not interested"
-msgstr ""
+msgstr "nicht interessiert"
 
 #: r2/templates/exploreitem.html:54
 msgid "more comments"
-msgstr ""
+msgstr "mehr Kommentare"
 
 #: r2/templates/exploreitemlisting.html:32
 msgid "Our robots thought you might like..."
@@ -5324,7 +5324,7 @@ msgstr ""
 
 #: r2/templates/exploreitemlisting.html:54
 msgid "try again"
-msgstr ""
+msgstr "nochmal versuchen"
 
 #: r2/templates/feedback.html:46 r2/templates/sharelink.html:59
 msgid "your name"
@@ -5566,7 +5566,7 @@ msgstr "Kaufe reddit Gold \"Creddits\""
 #: r2/templates/gold.html:105
 #, python-format
 msgid "%s / month"
-msgstr ""
+msgstr "%s / Monat"
 
 #: r2/templates/gold.html:106
 #, python-format
@@ -5644,7 +5644,7 @@ msgstr "PayPal"
 
 #: r2/templates/goldpayment.html:105
 msgid "Credit Card"
-msgstr ""
+msgstr "Kreditkarte"
 
 #: r2/templates/goldpayment.html:116
 msgid ""
@@ -5666,11 +5666,11 @@ msgstr "Ablaufdatum"
 
 #: r2/templates/goldpayment.html:153
 msgid "address line 1"
-msgstr ""
+msgstr "erste Adresszeile"
 
 #: r2/templates/goldpayment.html:157
 msgid "address line 2"
-msgstr ""
+msgstr "zweite Adresszeile"
 
 #: r2/templates/goldpayment.html:161 r2/templates/paymentform.html:107
 msgid "city"
@@ -5691,11 +5691,11 @@ msgstr "PLZ"
 
 #: r2/templates/goldpayment.html:179
 msgid "Submit"
-msgstr ""
+msgstr "Übermitteln"
 
 #: r2/templates/goldpayment.html:191
 msgid "amount"
-msgstr ""
+msgstr "Betrag"
 
 #: r2/templates/goldpayment.html:196
 msgid "renewal interval"
@@ -5715,7 +5715,7 @@ msgstr ""
 
 #: r2/templates/goldsubscription.html:41
 msgid "cancel subscription"
-msgstr ""
+msgstr "Abonnement kündigen"
 
 #: r2/templates/goldsubscription.html:71
 #, python-format
@@ -5724,15 +5724,15 @@ msgstr ""
 
 #: r2/templates/goldvertisement.html:33
 msgid "daily reddit gold goal"
-msgstr ""
+msgstr "tägliches reddit Goldziel"
 
 #: r2/templates/goldvertisement.html:42
 msgid "help support reddit"
-msgstr ""
+msgstr "reddit unterstützen helfen"
 
 #: r2/templates/goldvertisement.html:68
 msgid "Yesterday's reddit gold goal"
-msgstr ""
+msgstr "gestriges reddit Goldziel"
 
 #: r2/templates/interestbar.html:27
 #, python-format
@@ -5883,7 +5883,7 @@ msgstr ""
 
 #: r2/templates/login.html:73 r2/templates/register.html:73
 msgid "available!"
-msgstr ""
+msgstr "verfügbar!"
 
 #: r2/templates/login.html:82 r2/templates/register.html:82
 msgid "account recovery email"
@@ -5984,7 +5984,7 @@ msgstr "Annehmen"
 
 #: r2/templates/modlist.html:45
 msgid "you are now a moderator. welcome to the team!"
-msgstr ""
+msgstr "Du bist nun Moderator. Willkommen im Team!"
 
 #: r2/templates/modlist.html:46
 #, python-format
@@ -5998,11 +5998,11 @@ msgstr ""
 
 #: r2/templates/modlist.html:56
 msgid "invite"
-msgstr ""
+msgstr "einladen"
 
 #: r2/templates/modlist.html:61
 msgid "pending invitations"
-msgstr ""
+msgstr "ausstehende Einladungen"
 
 #: r2/templates/morechildren.html:39
 msgid "load more comments"
@@ -6055,7 +6055,7 @@ msgstr ""
 
 #: r2/templates/multiinfobar.html:77
 msgid "edit description"
-msgstr ""
+msgstr "Beschreibung ändern"
 
 #: r2/templates/multiinfobar.html:86
 #, python-format
@@ -6064,12 +6064,12 @@ msgstr ""
 
 #: r2/templates/multiinfobar.html:98
 msgid "add subreddit"
-msgstr ""
+msgstr "Subreddit hinzufügen"
 
 #: r2/templates/multiinfobar.html:98 r2/templates/userlist.html:58
 #: r2/templates/wikipagesettings.html:67
 msgid "add"
-msgstr "Hinzufügen"
+msgstr "hinzufügen"
 
 #: r2/templates/multiinfobar.html:105 r2/templates/subredditinfobar.html:74
 #, python-format
@@ -6086,15 +6086,15 @@ msgstr ""
 
 #: r2/templates/multiinfobar.html:122
 msgid "more suggestions"
-msgstr ""
+msgstr "mehr Vorschläge"
 
 #: r2/templates/multiinfobar.html:126
 msgid "no more suggestions!"
-msgstr ""
+msgstr "keine weiteren Vorschläge"
 
 #: r2/templates/multiinfobar.html:127
 msgid "would you like to..."
-msgstr ""
+msgstr "möchtest Du..."
 
 #: r2/templates/multiinfobar.html:131
 msgid "check out subreddits by category"
@@ -6162,11 +6162,11 @@ msgstr ""
 
 #: r2/templates/newlink.html:138
 msgid "few rules"
-msgstr ""
+msgstr "ein Paar Regeln"
 
 #: r2/templates/newlink.html:142
 msgid "good reddiquette"
-msgstr ""
+msgstr "gute Reddiquetten"
 
 #: r2/templates/oauth2authorization.html:45
 #, python-format
@@ -6367,7 +6367,7 @@ msgstr ""
 
 #: r2/templates/prefapps.html:110
 msgid "secret"
-msgstr ""
+msgstr "geheim"
 
 #: r2/templates/prefapps.html:127 r2/templates/prefapps.html:314
 msgid "about url"
